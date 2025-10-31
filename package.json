@@ -1,0 +1,33 @@
+{
+  "name": "nerdearla-mcp",
+  "version": "1.0.0",
+  "description": "¡Hola developer 👋🏻! En este repo encontrarás las demos que mostré durante el evento Nerdearla Spain 2025.",
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json && chmod 755 ./dist/server.js",
+    "start": "node dist/server.js"
+  },
+  "keywords": [
+    "MCP",
+    "Model Context Protocol",
+    "Anthropic",
+    "BiznagaFest",
+    "Málaga",
+    "IA",
+    "Inteligencia Artificial"
+  ],
+  "author": "Gisela Torres",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.20.1",
+    "dotenv": "^17.2.3",
+    "googleapis": "^164.0.0",
+    "winston": "^3.18.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.8.1",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}

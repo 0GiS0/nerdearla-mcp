@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"nerdearla-mcp": {
+			"type": "stdio",
+			"command": "node",
+			"args": [
+				"./dist/server.js"
+			],
+			"envFile": "${workspaceFolder}/.env"
+		}
+	},
+	"inputs": []
+}

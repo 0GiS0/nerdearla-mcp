@@ -23,7 +23,7 @@ export const prompts = [{
         argsSchema: {
             query: completable(z.string().min(1), value => {
                 // Query suggestions
-                return ['MCP Servers', 'IA Generativa', 'Chatbots', 'BiznagaFest 2025', 'TypeScript tutorial'].filter(q => q.toLowerCase().startsWith(value.toLowerCase()));
+                return ['MCP Servers', 'IA Generativa', 'Chatbots', 'Nerdearla Spain 2025', 'TypeScript tutorial'].filter(q => q.toLowerCase().startsWith(value.toLowerCase()));
             }),
             language: completable(z.string(), value => {
                 // Language suggestions

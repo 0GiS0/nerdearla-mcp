@@ -89,6 +89,28 @@ Genera títulos **creativos y únicos** para videos usando **sampling**. El serv
 
 ---
 
+## 📺 Prompts Disponibles
+
+### 🔎 **find_repository_videos** — _Buscar Videos del Repo_
+
+> ¡Che! 🇦🇷 Encontrá contenido en YouTube relacionado con este repositorio
+
+Este prompt te ayuda a descubrir videos sobre MCP Servers, Model Context Protocol y Nerdearla Spain 2025. Usa automáticamente la herramienta `search_video` para buscar contenido relevante, priorizando el canal de returngis (Gisela Torres).
+
+| Concepto | Descripción |
+|----------|-------------|
+| 📁 **Ubicación** | `src/prompts/index.ts` |
+| 🎯 **Funcionalidad** | Busca videos relacionados con el repo |
+| 🔧 **Incluye** | Título, canal, URL y descripción |
+
+**Cómo usarlo:**
+- Simplemente invocá el prompt `find_repository_videos`
+- El asistente buscará automáticamente videos sobre MCP Servers
+- Los resultados priorizarán el canal returngis
+- Obtendrás una lista bien organizada con toda la info
+
+---
+
 ## 💝 ¿Te gustó la charla?
 
 Si disfrutaste con las demos y quieres más contenido sobre MCP Servers, desarrollo y tecnología con salero:

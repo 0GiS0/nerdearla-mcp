@@ -89,6 +89,77 @@ Genera títulos **creativos y únicos** para videos usando **sampling**. El serv
 
 ---
 
+## 📺 Videos relacionados en YouTube
+
+¡Dale, mirá estos videos que te van a ayudar un montón! 🎥✨ Acá te dejo recursos visuales que complementan todo lo que vimos en este repo. La mayoría son del canal **return(GiS);** de Gisela Torres, pero también hay otros cracks que explican MCP re bien:
+
+### 🔥 Videos del canal return(GiS);
+
+**Título:** Cómo crear MCP Servers y usarlos con GitHub Copilot Chat 🚀💻🤖  
+**Canal:** return(GiS);  
+**URL:** https://www.youtube.com/watch?v=khz4nWR9l20  
+**Descripción:** Te muestro algo diferente: no solo te enseño a usar MCP Servers, sino también cómo crearlos desde cero y conectarlos con GitHub Copilot Chat.
+
+---
+
+**Título:** Sampling 🫴🏻🧠 Cómo tu MCP Server puede pedir prestado un modelo de IA al cliente  
+**Canal:** return(GiS);  
+**URL:** https://www.youtube.com/watch?v=7LARYKzChMQ  
+**Descripción:** ¿Sabías que tu MCP Server puede pedir prestado un modelo de IA? Acá te explico qué es el sampling y cómo usarlo en tus proyectos.
+
+---
+
+**Título:** 🎯 ¡Visual Studio Code + GitHub Copilot hacen PLENO con MCP! 🎳  
+**Canal:** return(GiS);  
+**URL:** https://www.youtube.com/watch?v=EcufOY3Z0mU  
+**Descripción:** Desde el 12 de junio, Visual Studio Code y GitHub Copilot ya soportan toda la especificación de Model Context Protocol. Te cuento todo al respecto.
+
+---
+
+**Título:** Elicitations en MCP 🤖: cuando el modelo te pide datos (¡no al revés!) 🧠  
+**Canal:** return(GiS);  
+**URL:** https://www.youtube.com/watch?v=EDHa6oq-J8Q  
+**Descripción:** Te explico qué son las Elicitations en Model Context Protocol y cómo podés usarlas ya en tus proyectos.
+
+---
+
+**Título:** Crea tu servidor MCP con Azure Functions ⚡️🧰  
+**Canal:** return(GiS);  
+**URL:** https://www.youtube.com/watch?v=us9QNkEu670  
+**Descripción:** Te cuento cómo crear servidores MCP con Azure Functions y te muestro cómo tengo montada la infraestructura.
+
+---
+
+### 🌟 Otros videos recomendados
+
+**Título:** Gisela Torres - No Volverás a Programar Igual: Desata a GitHub Copilot con el Modo Agente y MCP Servers  
+**Canal:** Codemotion  
+**URL:** https://www.youtube.com/watch?v=ecwBTkUE0VI  
+**Descripción:** Charla completa de Gisela en Codemotion 2025 sobre GitHub Copilot y MCP Servers. ¡No te la pierdas!
+
+---
+
+**Título:** Programando tus MCPs - Gisela Torres | #MIDUCONF2025  
+**Canal:** midulive  
+**URL:** https://www.youtube.com/watch?v=NldH5eojZPc  
+**Descripción:** Gisela participa en MIDUCONF2025 compartiendo cómo programar tus propios MCP Servers.
+
+---
+
+**Título:** Model Context Protocol (MCP) Explained in 20 Minutes  
+**Canal:** Shaw Talebi  
+**URL:** https://www.youtube.com/watch?v=N3vHJcHBS-w  
+**Descripción:** Una explicación clara y concisa del protocolo MCP en solo 20 minutos. Ideal para arrancar.
+
+---
+
+**Título:** you need to learn MCP RIGHT NOW!! (Model Context Protocol)  
+**Canal:** NetworkChuck  
+**URL:** https://www.youtube.com/watch?v=GuTcle5edjk  
+**Descripción:** NetworkChuck te explica por qué necesitás aprender MCP ahora mismo. Muy didáctico y entretenido.
+
+---
+
 ## 💝 ¿Te gustó la charla?
 
 Si disfrutaste con las demos y quieres más contenido sobre MCP Servers, desarrollo y tecnología con salero:

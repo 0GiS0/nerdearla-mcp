@@ -13,7 +13,7 @@ async function main() {
     logger.info('🚀 Inicializando servidor MCP BiznagaFest...');
 
     const server = new McpServer({
-        name: 'biznagafest-mcp',
+        name: 'nerdearla-mcp',
         version: '1.0.0'
     });
 

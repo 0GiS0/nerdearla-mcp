@@ -87,6 +87,16 @@ Genera títulos **creativos y únicos** para videos usando **sampling**. El serv
 
 ---
 
+## 🎬 Videos de YouTube
+
+¿Querés aprender más sobre MCP Servers? Tengo una [colección completa de videos en YouTube](./VIDEOS_YOUTUBE.md) que te van a encantar:
+
+- 🌟 Videos del canal **returngis** con tutoriales paso a paso
+- 📚 Cursos completos sobre Model Context Protocol
+- 🚀 Demos prácticas de integración con VS Code, Azure Functions y más
+
+👉 **[Ver lista completa de videos →](./VIDEOS_YOUTUBE.md)**
+
 ---
 
 ## 💝 ¿Te gustó la charla?

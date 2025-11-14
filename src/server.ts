@@ -6,11 +6,11 @@ import logger from './logger';
 import { prompts } from './prompts';
 
 // ⚙️ Inicializar logger
-logger.info('🚀 Inicializando BiznagaFest MCP Server con stdio transport...');
+logger.info('🚀 Inicializando Nerdearla MCP Server con stdio transport...');
 
 // 🚀 Función para inicializar servidor MCP con herramientas
 async function main() {
-    logger.info('🚀 Inicializando servidor MCP BiznagaFest...');
+    logger.info('🚀 Inicializando servidor MCP Nerdearla...');
 
     const server = new McpServer({
         name: 'nerdearla-mcp',
@@ -48,7 +48,7 @@ async function main() {
     
     await server.connect(transport);
     logger.info('✅ Servidor conectado al transporte stdio');
-    logger.info('🎉 BiznagaFest MCP Server listo y escuchando en stdin/stdout');
+    logger.info('🎉 Nerdearla MCP Server listo y escuchando en stdin/stdout');
 }
 
 // 🏁 Ejecutar servidor

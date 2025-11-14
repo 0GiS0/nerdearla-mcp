@@ -87,6 +87,18 @@ Genera títulos **creativos y únicos** para videos usando **sampling**. El serv
 
 ---
 
+## 🎬 Videos Relacionados
+
+¿Querés ver las demos en acción y aprender más sobre MCP Servers? Mirá la colección completa de videos que preparé para vos:
+
+👉 **[Ver Videos Relacionados](./VIDEOS_RELACIONADOS.md)** 📺
+
+Encontrarás:
+- 🎥 Charla completa de Nerdearla Spain 2025
+- 🛠️ Tutoriales paso a paso de MCP Servers
+- 📚 Playlists completas sobre Model Context Protocol
+- 🚀 Integraciones con GitHub Copilot y Azure Functions
+
 ---
 
 ## 💝 ¿Te gustó la charla?

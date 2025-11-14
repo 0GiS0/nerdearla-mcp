@@ -9,7 +9,7 @@
 
 </div>
 
-¡Hola, developer 👋🏻! Este repositorio contiene las demos que mostré en Nerdearla 2025 durante la charla MCP Servers: los super poderes ✨ de los LLMs 🤖. Con él podrás aprender las características principales de un servidor de este tipo.
+¡Che, developer 👋🏻! Este repositorio contiene las demos que mostré en Nerdearla 2025 durante la charla MCP Servers: los super poderes ✨ de los LLMs 🤖. Con él podrás aprender las características principales de un servidor de este tipo.
 
 ---
 

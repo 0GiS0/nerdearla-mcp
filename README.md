@@ -89,6 +89,70 @@ Genera títulos **creativos y únicos** para videos usando **sampling**. El serv
 
 ---
 
+## 📺 Videos Relacionados
+
+¿Querés profundizar más sobre MCP Servers? Acá te dejo una selección de videos que te van a servir un montón para aprender más sobre este tema:
+
+### 🎥 Videos del Canal return(GiS);
+
+**[Cómo crear MCP Servers y usarlos con GitHub Copilot Chat 🚀💻🤖](https://www.youtube.com/watch?v=khz4nWR9l20)**  
+_Canal: return(GiS);_  
+No solo te enseñaré a usar MCP Servers, ¡también aprenderás a crearlos y usarlos con GitHub Copilot Chat!
+
+**[Sampling 🫴🏻🧠 Cómo tu MCP Server puede pedir prestado un modelo de IA al cliente](https://www.youtube.com/watch?v=7LARYKzChMQ)**  
+_Canal: return(GiS);_  
+¿Sabías que tu MCP Server puede pedir prestado un modelo de IA? Acá te explico qué es el sampling y cómo usarlo.
+
+**[🎯 ¡Visual Studio Code + GitHub Copilot hacen PLENO con MCP! 🎳](https://www.youtube.com/watch?v=EcufOY3Z0mU)**  
+_Canal: return(GiS);_  
+Desde el 12 de junio, Visual Studio Code y GitHub Copilot ya soportan toda la especificación de Model Context Protocol.
+
+**[Crea tu servidor MCP con Azure Functions ⚡️🧰](https://www.youtube.com/watch?v=us9QNkEu670)**  
+_Canal: return(GiS);_  
+Aprende cómo crear servidores MCP con Azure Functions de manera fácil y rápida.
+
+**[Elicitations en MCP 🤖: cuando el modelo te pide datos (¡no al revés!) 🧠](https://www.youtube.com/watch?v=EDHa6oq-J8Q)**  
+_Canal: return(GiS);_  
+Descubre qué son las Elicitations en Model Context Protocol y cómo usarlas en tus proyectos.
+
+**[¡Controla tu casa desde VS Code! 🧠💡 Configura el MCP Server de Home Assistant paso a paso 🛠️🏠](https://www.youtube.com/watch?v=6J4KD5NJtdc)**  
+_Canal: return(GiS);_  
+¿Te imaginás controlar tu casa desde Visual Studio Code? En este video lo hacemos realidad con MCP.
+
+### 🌟 Charlas y Presentaciones
+
+**[Programando tus MCPs - Gisela Torres | #MIDUCONF2025](https://www.youtube.com/watch?v=NldH5eojZPc)**  
+_Canal: midulive_  
+Charla completa sobre programación de MCP Servers en la Miduconf 2025.
+
+**[No Volverás a Programar Igual - GitHub Copilot con Modo Agente y MCP Servers](https://www.youtube.com/watch?v=ecwBTkUE0VI)**  
+_Canal: Codemotion_  
+Charla de Gisela Torres en Codemotion 2025 sobre GitHub Copilot, modo agente y MCP Servers.
+
+### 🎓 Tutoriales y Recursos Educativos
+
+**[Intro to MCP Servers – Model Context Protocol with Python Course](https://www.youtube.com/watch?v=DosHnyq78xY)**  
+_Canal: freeCodeCamp.org_  
+Curso completo para aprender a construir MCP Servers con Python usando la biblioteca FastMCP.
+
+**[Model Context Protocol (MCP) Explained in 20 Minutes](https://www.youtube.com/watch?v=N3vHJcHBS-w)**  
+_Canal: Shaw Talebi_  
+Explicación clara y concisa de MCP en solo 20 minutos, ideal para arrancar.
+
+**[Model Context Protocol Clearly Explained | MCP Beyond the Hype](https://www.youtube.com/watch?v=tzrwxLNHtRY)**  
+_Canal: codebasics_  
+Una explicación súper simple de MCP que va más allá del hype y te muestra lo esencial.
+
+**[3 Amazing MCP Servers Every Developer Needs in 2025](https://www.youtube.com/watch?v=qzQ6kA3LDhs)**  
+_Canal: AWS Developers_  
+Descubre MCP Servers poderosos como Brave Search, AWS Docs y más que todo developer necesita.
+
+**[you need to learn MCP RIGHT NOW!! (Model Context Protocol)](https://www.youtube.com/watch?v=GuTcle5edjk)**  
+_Canal: NetworkChuck_  
+Tutorial energético sobre por qué necesitás aprender MCP ahora mismo, con ejemplos de Docker MCP.
+
+---
+
 ## 💝 ¿Te gustó la charla?
 
 Si disfrutaste con las demos y quieres más contenido sobre MCP Servers, desarrollo y tecnología con salero:
